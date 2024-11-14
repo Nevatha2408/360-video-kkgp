@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="1" apprev="20913" appversion="7.1.2" start="node2">
+  <panorama id="node2">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="126.755" pan="-25.7845" projection="4" tilt="-7.06531"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-45.8699" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" fovstereographic="330" pan="180" tilt="45.8699"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Pintu gerbang Kolej" tags="Desktop" heading="0" source="" datetime="" nodeid="node2" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-349.58" target="" url="{node1}" tilt="12.78" title=""/>
+      <hotspot skinid="ht_node" id="Point02" description="" pan="-325.75" target="" url="{node13}" tilt="11.38" title=""/>
+      <hotspot skinid="ht_image" id="Point03" description="" pan="-32.5" target="" url="images/photo_2024-11-07_22-00-20.jpg" tilt="14.03" title=""/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.606" tilt="11.010" tiltsize="10.000" roty="3.030" loop="1" popoutscaling="100" popbackmode="0" pan="71.290" field="90.000" rotz="0.310" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="19.360" mode="3" nodechangekeep="0" rotx="6.700" width="1920">
+        <source url="media/pintu gerbang 3.mov"/>
+      </video>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element02" stretch="1.367" tilt="5.180" tiltsize="10.000" roty="-2.340" loop="1" popoutscaling="100" popbackmode="0" pan="-70.300" field="90.000" rotz="2.060" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="23.140" mode="3" nodechangekeep="0" rotx="-3.610" width="1920">
+        <source url="media/Pengenalan 3.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node1">
+    <input height="611" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="611" leveltilesize="510">
+      <level predecode="0" preload="0" height="611" width="611"/>
+      <level predecode="1" preload="1" height="305" width="305"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="-30.4433" projection="4" tilt="-6.4902"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" fov="140" fovstereographic="330" pan="360" tilt="90"/>
+    </view>
+    <userdata longitude="101.056889" latitude="5.385917" description="" copyright="" altitude="207.50" title="Gelanggang Futsal" tags="IMG_20240807_085912_012_014_HDR" heading="0" source="" datetime="7/8/2024 8:59 AM" nodeid="node1" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-147.25" target="" url="{node2}" tilt="1.29" title=""/>
+      <hotspot skinid="ht_node" id="Point02" description="" pan="-248.24" target="$fwd" url="{node13}" tilt="-0.73" title="Foyer"/>
+      <hotspot skinid="ht_node" id="Point03" description="" pan="-218.18" target="$fwd" url="{node11}" tilt="-1.66" title="Laluan Masuk "/>
+      <hotspot skinid="ht_node" description="" pan="-218.159" url="{node12}" title="Bengkel Automotif" id="Point04" distance="194.076" target="$fwd" tilt="-1.6"/>
+      <hotspot skinid="ht_node" id="Point05" description="" pan="-147.24" target="$fwd" url="{node2}" tilt="1.42" title="Pintu gerbang Kolej"/>
+      <hotspot skinid="ht_node" id="Point06" description="" pan="-218.36" target="$fwd" url="{node11}" tilt="-1.8" title="Laluan Masuk "/>
+      <hotspot skinid="ht_image" id="Point07" description="" pan="-138.76" target="$fwd" url="images/photo_2024-11-07_22-00-20.jpg" tilt="-2.55" title="Gelanggang Futsal"/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.023" tilt="-0.870" tiltsize="10.000" roty="14.550" loop="1" popoutscaling="100" popbackmode="0" pan="345.350" field="90.000" rotz="0.440" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="30.800" mode="3" nodechangekeep="0" rotx="-7.040" width="1920">
+        <source url="media/arena.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="49.5919" projection="4" tilt="1.20816"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-34.7833" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" fovstereographic="330" pan="180" tilt="34.7833"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Laluan Masuk " tags="Desktop" heading="0" source="" datetime="" nodeid="node11" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-307.21" target="" url="{node2}" tilt="4.57" title=""/>
+      <hotspot skinid="ht_node" id="Point02" description="" pan="-258.62" target="" url="{node1}" tilt="7.67" title=""/>
+      <hotspot skinid="ht_image" id="Point03" description="" pan="-354.46" target="" url="images/photo_2024-11-06_14-04-43.jpg" tilt="4.58" title=""/>
+      <hotspot skinid="ht_image" id="Point04" description="" pan="-296.77" target="" url="images/photo_2024-11-07_22-00-20.jpg" tilt="5.47" title=""/>
+      <hotspot skinid="ht_node" id="Point05" description="" pan="-178.79" target="" url="{node13}" tilt="-3.95" title=""/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.008" tilt="22.360" tiltsize="10.000" roty="-1.740" loop="1" popoutscaling="100" popbackmode="0" pan="59.800" field="90.000" rotz="0.920" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="27.280" mode="3" nodechangekeep="0" rotx="18.850" width="1920">
+        <source url="media/laluan utama.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="122.748" projection="4" tilt="0.193762"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" fov="140" fovstereographic="330" pan="360" tilt="90"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Foyer" tags="Desktop" heading="0" source="" datetime="" nodeid="node13" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-199.89" target="" url="{node11}" tilt="-1.38" title=""/>
+      <hotspot skinid="ht_node" id="Point02" description="" pan="-37.03" target="" url="{node3}" tilt="24.4" title=""/>
+      <hotspot skinid="ht_node" id="Point04" description="" pan="-321.41" target="" url="{node9}" tilt="-2.12" title=""/>
+      <hotspot skinid="ht_node" id="Point06" description="" pan="-260.95" target="" url="{node5}" tilt="-0.54" title=""/>
+      <hotspot skinid="ht_node" id="Point07" description="" pan="-13.19" target="" url="{node6}" tilt="13.58" title=""/>
+      <hotspot skinid="ht_image" id="Point03" description="" pan="-31.92" target="" url="images/photo_2024-11-07_22-00-47.jpg" tilt="-0.3" title=""/>
+      <hotspot skinid="ht_image" id="Point08" description="" pan="-15.92" target="" url="images/photo_2024-11-07_22-00-32.jpg" tilt="0.34" title=""/>
+      <hotspot skinid="ht_image" id="Point09" description="" pan="-8.87" target="" url="images/photo_2024-11-07_22-00-37.jpg" tilt="-0.31" title=""/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.023" tilt="6.040" tiltsize="10.000" roty="-8.780" loop="1" popoutscaling="100" popbackmode="0" pan="-220.280" field="90.000" rotz="0.550" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="22.490" mode="3" nodechangekeep="0" rotx="5.270" width="1920">
+        <source url="media/foyer 3.mov"/>
+      </video>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element02" stretch="1.328" tilt="-0.410" tiltsize="10.000" roty="4.650" loop="1" popoutscaling="100" popbackmode="0" pan="-127.110" field="90.000" rotz="2.020" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="23.280" mode="3" nodechangekeep="0" rotx="17.010" width="1920">
+        <source url="media/perpustakaan 3.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node28">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="51.6308" projection="4" tilt="-0.0629226"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-36.3646" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" fovstereographic="330" pan="180" tilt="36.3646"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Perpustakaan" tags="Pano2VR7" heading="0" source="" datetime="" nodeid="node28" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_image" id="Point01" description="" pan="-344.65" target="" url="images/photo_2024-11-07_21-57-46.jpg" tilt="1.38" title=""/>
+      <hotspot skinid="ht_image" id="Point02" description="" pan="-171.82" target="" url="images/photo_2024-11-07_21-57-41.jpg" tilt="-6.1" title=""/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input height="1833" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1833" leveltilesize="510">
+      <level predecode="0" preload="0" height="1833" width="1833"/>
+      <level predecode="0" preload="0" height="916" width="916"/>
+      <level predecode="1" preload="1" height="458" width="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="80.6306" projection="4" tilt="-0.104761"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" fov="140" fovstereographic="330" pan="360" tilt="90"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Dewan Al-Farabi" tags="Desktop" heading="0" source="" datetime="2024:10:22 21:47:15" nodeid="node5" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-34.45" target="" url="{node13}" tilt="3.95" title=""/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.213" tilt="2.030" tiltsize="10.000" roty="3.020" loop="1" popoutscaling="100" popbackmode="0" pan="86.320" field="90.000" rotz="0.520" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="21.790" mode="3" nodechangekeep="0" rotx="-3.310" width="1920">
+        <source url="media/al farabi.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node18">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="126.231" projection="4" tilt="0.635068"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-34.2102" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" fovstereographic="330" pan="180" tilt="34.2102"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Dewan Kuliah " tags="Pano2VR7" heading="0" source="" datetime="" nodeid="node18" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_image" id="Point01" description="" pan="-300.75" target="" url="images/photo_2024-11-06_14-09-45.jpg" tilt="-2.28" title=""/>
+      <hotspot skinid="ht_node" id="Point02" description="" pan="-300.91" target="" url="" tilt="-2.33" title=""/>
+      <hotspot skinid="ht_node" id="Point03" description="" pan="-351.38" target="" url="{node24}" tilt="19.65" title=""/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.223" tilt="16.050" tiltsize="10.000" roty="-7.560" loop="1" popoutscaling="100" popbackmode="0" pan="122.700" field="90.000" rotz="3.330" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="25.430" mode="3" nodechangekeep="0" rotx="18.950" width="1920">
+        <source url="media/dewan kuliah.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node24">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="-51.4212" projection="4" tilt="-2.3448"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-36.3646" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" fovstereographic="330" pan="180" tilt="36.3646"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Unit Pengambilan Pelajar" tags="Pano2VR7" heading="0" source="" datetime="" nodeid="node24" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-172.05" target="" url="{node18}" tilt="-10.11" title=""/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.478" tilt="15.550" tiltsize="10.000" roty="-6.240" loop="1" popoutscaling="100" popbackmode="0" pan="-35.820" field="90.000" rotz="0.020" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="18.610" mode="3" nodechangekeep="0" rotx="3.090" width="1920">
+        <source url="media/unit pengambilan.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node25">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="56.1046" projection="4" tilt="-0.809473"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-36.3646" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" fovstereographic="330" pan="180" tilt="36.3646"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Bilik Pensyarah" tags="Pano2VR7" heading="0" source="" datetime="" nodeid="node25" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.679" tilt="5.420" tiltsize="10.000" roty="-1.600" loop="1" popoutscaling="100" popbackmode="0" pan="56.610" field="90.000" rotz="-0.140" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="19.590" mode="3" nodechangekeep="0" rotx="14.440" width="1920">
+        <source url="media/bilik pensyarah.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input height="611" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="611" leveltilesize="510">
+      <level predecode="0" preload="0" height="611" width="611"/>
+      <level predecode="1" preload="1" height="305" width="305"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="1.23259" projection="4" tilt="-7.19378"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" fov="140" fovstereographic="330" pan="360" tilt="90"/>
+    </view>
+    <userdata longitude="101.057444" latitude="5.385444" description="" copyright="" altitude="176.30" title="Makmal Komputer" tags="IMG_20240906_160435_020_022_HDR" heading="0" source="" datetime="6/9/2024 4:04 PM" nodeid="node3" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" description="" pan="-154.824" url="{node6}" title="Bilik Digital" id="Point02" distance="12.7838" target="$bwd" tilt="2.44"/>
+      <hotspot skinid="ht_image" id="Point03" description="" pan="-151.93" target="" url="images/photo_2024-10-23_12-55-53.jpg" tilt="1.58" title=""/>
+      <hotspot skinid="ht_image" id="Point01" description="" pan="-73.22" target="$fwd" url="images/photo_2024-11-06_14-25-16.jpg" tilt="4.2" title="Makmal Komputer"/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.346" tilt="-3.460" tiltsize="10.000" roty="-5.080" loop="1" popoutscaling="100" popbackmode="0" pan="-1.910" field="90.000" rotz="-0.930" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="21.030" mode="3" nodechangekeep="0" rotx="-5.640" width="1920">
+        <source url="media/makmal komputer 2.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input height="611" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="611" leveltilesize="510">
+      <level predecode="0" preload="0" height="611" width="611"/>
+      <level predecode="1" preload="1" height="305" width="305"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="138.978" projection="4" tilt="-13.7676"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" fov="140" fovstereographic="330" pan="360" tilt="90"/>
+    </view>
+    <userdata longitude="101.057556" latitude="5.385472" description="" copyright="" altitude="188.30" title="Bilik Digital" tags="Desktop" heading="0" source="" datetime="19/7/2024 11:01 AM" nodeid="node6" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="328.003" target="$fwd" url="{node8}" tilt="1.37" title="Bilik Kuliah"/>
+      <hotspot skinid="ht_node" id="Point03" description="" pan="-31.78" target="$fwd" url="{node8}" tilt="1.07" title="Bilik Kuliah"/>
+      <hotspot skinid="ht_node" description="" pan="328.376" url="{node3}" title="Makmal Komputer" id="Point04" distance="12.7838" target="$fwd" tilt="1.25"/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.035" tilt="0.500" tiltsize="10.000" roty="14.300" loop="1" popoutscaling="100" popbackmode="0" pan="-216.350" field="90.000" rotz="-3.580" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="19.450" mode="3" nodechangekeep="0" rotx="12.610" width="1920">
+        <source url="media/digital.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="-67.9532" projection="4" tilt="1.20816"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-34.7833" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" fovstereographic="330" pan="180" tilt="34.7833"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Bilik Kuliah" tags="Desktop" heading="0" source="" datetime="" nodeid="node8" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-270.35" target="" url="{node17}" tilt="-1.21" title=""/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.253" tilt="6.330" tiltsize="10.000" roty="-8.420" loop="1" popoutscaling="100" popbackmode="0" pan="-53.220" field="90.000" rotz="-0.770" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="20.460" mode="3" nodechangekeep="0" rotx="-7.480" width="1920">
+        <source url="media/bilik kuliah 3.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node17">
+    <input height="303" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="303" leveltilesize="510">
+      <level predecode="1" preload="1" height="303" width="303"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="-73.2724" projection="4" tilt="8.27604"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-41.8513" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" fovstereographic="330" pan="180" tilt="41.8513"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Bengkel Fesyen" tags="Desktop" heading="0" source="" datetime="" nodeid="node17" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-11.58" target="" url="{node10}" tilt="6.69" title=""/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.358" tilt="15.140" tiltsize="10.000" roty="12.250" loop="1" popoutscaling="100" popbackmode="0" pan="310.950" field="90.000" rotz="-1.610" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="20.170" mode="3" nodechangekeep="0" rotx="12.960" width="1920">
+        <source url="media/bengkel fashion.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input height="1833" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1833" leveltilesize="510">
+      <level predecode="0" preload="0" height="1833" width="1833"/>
+      <level predecode="0" preload="0" height="916" width="916"/>
+      <level predecode="1" preload="1" height="458" width="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="-144.898" projection="4" tilt="-9.94435"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" fov="140" fovstereographic="330" pan="360" tilt="90"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Laluan Menu Utama" tags="Desktop" heading="0" source="" datetime="2024:10:22 21:39:33" nodeid="node10" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-270.43" target="" url="{node9}" tilt="-6.93" title=""/>
+      <hotspot skinid="ht_node" id="Point03" description="" pan="-22.17" target="" url="{node3}" tilt="15.02" title=""/>
+      <hotspot skinid="ht_node" id="Point04" description="" pan="-77.94" target="" url="{node5}" tilt="7.71" title=""/>
+      <hotspot skinid="ht_node" id="Point02" description="" pan="-296.2" target="" url="{node17}" tilt="6.26" title=""/>
+      <hotspot skinid="ht_node" id="Point05" description="" pan="-36.95" target="" url="{node8}" tilt="6.87" title=""/>
+      <hotspot skinid="ht_image" id="Point06" description="" pan="-17.74" target="" url="images/photo_2024-11-07_22-00-47.jpg" tilt="1.62" title=""/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.046" tilt="-26.780" tiltsize="10.000" roty="-1.210" loop="1" popoutscaling="100" popbackmode="0" pan="-147.000" field="90.000" rotz="-0.730" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="29.540" mode="3" nodechangekeep="0" rotx="-5.390" width="1920">
+        <source url="media/menuutama.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="97.8183" projection="4" tilt="-1.30279"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-34.8781" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" fovstereographic="330" pan="180" tilt="34.8781"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Kafe Kolej" tags="Desktop" heading="0" source="" datetime="" nodeid="node9" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-2.02" target="" url="{node14}" tilt="-3.94" title=""/>
+      <hotspot skinid="ht_image" id="Point02" description="" pan="-260.97" target="" url="images/photo_2024-11-06_14-04-46.jpg" tilt="0.42" title=""/>
+      <hotspot skinid="ht_image" id="Point03" description="" pan="-279.48" target="" url="images/photo_2024-11-06_14-04-56.jpg" tilt="0.32" title=""/>
+      <hotspot skinid="ht_node" id="Point04" description="" pan="-168.97" target="" url="{node10}" tilt="-8.01" title=""/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.000" tilt="-1.240" tiltsize="10.000" roty="0.000" loop="1" popoutscaling="100" popbackmode="0" pan="-244.610" field="90.000" rotz="0.000" level="1.000" hidepinned="0" clickmode="0" ambientlevel="0.000" fov="30.000" mode="3" nodechangekeep="0" rotx="0.000" width="1920">
+        <source url="media/kafe kolej 2.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node26">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="-73.2295" projection="4" tilt="-2.97128"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-36.5466" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" fovstereographic="330" pan="180" tilt="36.5466"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Kedai Buku Kolej" tags="Pano2VR7" heading="0" source="" datetime="" nodeid="node26" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-186.3" target="" url="{node9}" tilt="-2.27" title=""/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.059" tilt="-6.880" tiltsize="10.000" roty="14.450" loop="1" popoutscaling="100" popbackmode="0" pan="-62.740" field="90.000" rotz="0.180" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="31.000" mode="3" nodechangekeep="0" rotx="0.180" width="1920">
+        <source url="media/buku kedai.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node14">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="8.71677" projection="4" tilt="-13.3154"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" fov="140" fovstereographic="330" pan="360" tilt="90"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Laluan Bengkel Automotif" tags="Desktop" heading="0" source="" datetime="" nodeid="node14" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-3.29" target="" url="{node12}" tilt="1.07" title=""/>
+      <hotspot skinid="ht_node" id="Point02" description="" pan="-28.66" target="" url="{node16}" tilt="-0.89" title=""/>
+      <hotspot skinid="ht_node" id="Point03" description="" pan="-192.13" target="" url="{node9}" tilt="1.15" title=""/>
+      <hotspot skinid="ht_node" id="Point04" description="" pan="-89.52" target="" url="{node19}" tilt="0.45" title=""/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node19">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="-90.8497" projection="4" tilt="-1.95996"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-35.5352" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" fovstereographic="330" pan="180" tilt="35.5352"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Bilik Masakan " tags="Pano2VR7" heading="0" source="" datetime="" nodeid="node19" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-194.13" target="" url="{node16}" tilt="6.16" title=""/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.727" tilt="20.590" tiltsize="10.000" roty="7.070" loop="1" popoutscaling="100" popbackmode="0" pan="-60.090" field="90.000" rotz="-0.270" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="17.940" mode="3" nodechangekeep="0" rotx="21.120" width="1920">
+        <source url="media/bilik masakan.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node16">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="-112.222" projection="4" tilt="-9.78781"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" fov="140" fovstereographic="330" pan="360" tilt="90"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Bengkel Perabot" tags="Desktop" heading="0" source="" datetime="" nodeid="node16" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-223.26" target="" url="{node12}" tilt="-3.79" title=""/>
+      <hotspot skinid="ht_node" id="Point02" description="" pan="-223.39" target="" url="{node19}" tilt="-3.93" title=""/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.224" tilt="2.590" tiltsize="10.000" roty="14.590" loop="1" popoutscaling="100" popbackmode="0" pan="-125.160" field="90.000" rotz="-0.610" level="1.000" hidepinned="0" clickmode="4" ambientlevel="0.000" fov="20.200" mode="3" nodechangekeep="0" rotx="-20.830" width="1920">
+        <source url="media/perabot.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input height="611" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="611" leveltilesize="510">
+      <level predecode="0" preload="0" height="611" width="611"/>
+      <level predecode="1" preload="1" height="305" width="305"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="117.463" pan="-8.02441" projection="4" tilt="-16.8914"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" fov="140" fovstereographic="330" pan="360" tilt="90"/>
+    </view>
+    <userdata longitude="101.058472" latitude="5.385167" description="" copyright="" altitude="191.50" title="Bengkel Automotif" tags="Desktop" heading="0" source="" datetime="11/9/2024 11:41 AM" nodeid="node12" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="108.3" target="$fwd" url="{node16}" tilt="3.76" title="Bengkel Perabot"/>
+      <hotspot skinid="ht_node" description="" pan="91.2809" url="{node1}" title="Gelanggang Futsal" id="Point02" distance="194.076" target="$fwd" tilt="1.43"/>
+      <hotspot skinid="ht_node" id="Point03" description="" pan="91.54" target="$fwd" url="{node9}" tilt="1.49" title="Kafe Kolej"/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.269" tilt="-1.850" tiltsize="10.000" roty="-10.260" loop="1" popoutscaling="100" popbackmode="0" pan="-8.260" field="90.000" rotz="-2.000" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="19.400" mode="3" nodechangekeep="0" rotx="10.220" width="1920">
+        <source url="media/automotif.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node27">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="116.809" pan="68.4953" projection="4" tilt="0"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-33.2375" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" fovstereographic="330" pan="180" tilt="33.2375"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Laluan Asrama2" tags="Pano2VR7" heading="0" source="" datetime="" nodeid="node27" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-249.62" target="" url="{node20}" tilt="5.7" title=""/>
+      <hotspot skinid="ht_node" id="Point02" description="" pan="-101.45" target="" url="{node16}" tilt="-2.31" title=""/>
+      <hotspot skinid="ht_node" id="Point03" description="" pan="-89.82" target="" url="{node19}" tilt="-2.48" title=""/>
+      <hotspot skinid="ht_image" id="Point04" description="" pan="-192.56" target="" url="images/photo_2024-11-07_21-58-24.jpg" tilt="3.51" title=""/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node20">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="116.809" pan="-13.9302" projection="4" tilt="-2.94432"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-36.1818" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" fovstereographic="330" pan="180" tilt="36.1818"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Laluan Asrama2" tags="Pano2VR7" heading="0" source="" datetime="" nodeid="node20" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-191.92" target="" url="{node27}" tilt="8.12" title=""/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node15">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="116.809" pan="-14.3352" projection="4" tilt="-4.28763"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max scaletofit="1" fovfisheye="360" fov="140" fovstereographic="330" pan="360" tilt="90"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Laluan Asrama" tags="Desktop" heading="0" source="" datetime="" nodeid="node15" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_node" id="Point01" description="" pan="-68.78" target="" url="{node12}" tilt="1.33" title=""/>
+      <hotspot skinid="ht_node" id="Point02" description="" pan="-68.72" target="" url="" tilt="1.18" title=""/>
+      <hotspot skinid="ht_image" id="Point03" description="" pan="-88.99" target="" url="images/photo_2024-11-07_22-00-09.jpg" tilt="-1.44" title=""/>
+      <hotspot skinid="ht_node" id="Point04" description="" pan="-328.47" target="" url="{node22}" tilt="7.43" title=""/>
+      <hotspot skinid="ht_node" id="Point05" description="" pan="-39.46" target="" url="{node20}" tilt="7.11" title=""/>
+      <hotspot skinid="ht_node" id="Point06" description="" pan="-12.25" target="" url="{node20}" tilt="4.75" title=""/>
+      <hotspot skinid="ht_node" id="Point07" description="" pan="-296.83" target="" url="{node23}" tilt="5.75" title=""/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node22">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="116.809" pan="67.6712" projection="4" tilt="-1.92353"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-35.161" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" fovstereographic="330" pan="180" tilt="35.161"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Asrama Lelaki" tags="Pano2VR7" heading="0" source="" datetime="" nodeid="node22" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_image" id="Point01" description="" pan="-339.7" target="" url="images/photo_2024-11-07_21-59-54.jpg" tilt="9.7" title=""/>
+      <hotspot skinid="ht_node" id="Point02" description="" pan="-258.14" target="" url="{node23}" tilt="11.24" title=""/>
+      <hotspot skinid="ht_image" id="Point03" description="" pan="-164.38" target="" url="images/photo_2024-11-07_22-00-04.jpg" tilt="-16.77" title=""/>
+      <hotspot skinid="ht_node" id="Point04" description="" pan="-90.06" target="" url="{node12}" tilt="-11.87" title=""/>
+      <hotspot skinid="ht_node" id="Point05" description="" pan="-58.07" target="" url="{node20}" tilt="-8.26" title=""/>
+    </hotspots>
+    <media>
+      <video handcursor="0" startmutedmobile="0" pansize="10.000" height="1080" id="Element01" stretch="1.180" tilt="10.470" tiltsize="10.000" roty="20.800" loop="1" popoutscaling="100" popbackmode="0" pan="69.810" field="90.000" rotz="0.300" level="1.000" hidepinned="0" clickmode="2" ambientlevel="0.000" fov="19.400" mode="3" nodechangekeep="0" rotx="-3.900" width="1920">
+        <source url="media/asrama 3.mov"/>
+      </video>
+    </media>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <panorama id="node23">
+    <input height="407" levelingpitch="0" levelbias="0.400" overlap="1" levelingroll="0" levelbiashidpi="1.000" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" width="407" leveltilesize="510">
+      <level predecode="1" preload="1" height="407" width="407"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start fov="116.809" pan="-9.8655" projection="4" tilt="-1.16464"/>
+      <flyin fov="170" pan="0" projection="9" tilt="-90"/>
+      <min pan="-180" tilt="-34.4021" fovpixel="2"/>
+      <max fovfisheye="360" fov="140" fovstereographic="330" pan="180" tilt="34.4021"/>
+    </view>
+    <userdata longitude="" latitude="" description="" copyright="" title="Asrama Perempuan" tags="Pano2VR7" heading="0" source="" datetime="" nodeid="node23" author="" comment="" info="" customnodeid=""/>
+    <hotspots height="20" wordwrap="1" smoothmovement="0" width="180">
+      <label background="1" backgroundalpha="1" height="20" borderradius="1" border="1" bordercolor="0x000000" textcolor="0x000000" textalpha="1" wordwrap="1" borderalpha="1" backgroundcolor="0xffffff" enabled="1" width="180"/>
+      <polystyle handcursor="1" backgroundalpha="0.25098" borderalpha="1" mode="0" backgroundcolor="0xaa0000" bordercolor="0x0000ff"/>
+      <hotspot skinid="ht_image" id="Point01" description="" pan="-335.52" target="" url="images/photo_2024-11-07_21-59-49.jpg" tilt="5.14" title=""/>
+      <hotspot skinid="ht_node" id="Point02" description="" pan="-78.35" target="" url="" tilt="-11.81" title=""/>
+      <hotspot skinid="ht_node" id="Point03" description="" pan="-42.19" target="" url="{node22}" tilt="3.64" title=""/>
+      <hotspot skinid="ht_image" id="Point04" description="" pan="-94.56" target="" url="images/photo_2024-11-07_22-00-04.jpg" tilt="-11.99" title=""/>
+    </hotspots>
+    <media/>
+    <transition delay="none" zoomoutpause="1" zoomafterinfov="140" type="crossdissolve" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomspeed="2" blendtime="1" zoomin="0" zoomout="0" enabled="1" blendcolor="0x000000"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control dblclickfullscreen="0" invertwheel="0" contextfullscreen="1" contextvr="1" lockedkeyboard="0" rubberband="0" lockedmouse="0" sensitivity="8" simulatemass="1" speedwheel="1" lockedwheel="0" lockedkeyboardzoom="0" invertcontrol="1" hideabout="0" contextprojections="0" zoomcentercursor="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" description="" copyright="" author="" comment="" title="Kolej Komuniti Gerik"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
